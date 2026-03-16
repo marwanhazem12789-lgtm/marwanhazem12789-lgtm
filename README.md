@@ -5,39 +5,48 @@
 <br />
 
 ### 🚀 About Me
-I'm a passionate **Full Stack & Mobile App Developer** dedicated to building functional, beautiful, and user-centric applications.
+I'm a passionate **Full Stack & Mobile App Developer** from Egypt 🇪🇬. I specialize in building high-performance applications across multiple platforms.
 
-- 💼 Experienced in building Desktop, Web, and Mobile solutions.
-- ⚽ **Football Enthusiast:** I have a deep passion for football and have participated in multiple international competitions.
-- ❤️ I love working with **C# (.NET)**, **C++**, and **Flutter**.
-- 🎓 Constantly learning and sharing knowledge with the developer community.
-
----
-
-### 🛠 Tech Stack (Ordered by Expertise)
-
-<code><img height="35" alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="35" alt="cplusplus" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="35" alt="flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
-<code><img height="35" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="35" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="35" alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+- 💼 **Role:** Full Stack & Mobile App Engineer.
+- ⚽ **Football:** International competitions participant & football lover.
+- ❤️ **Interests:** High-level architecture, AI Integration, and competitive sports.
 
 ---
 
-### 📊 GitHub Analysis
+### 📈 GitHub Highlights (Impact)
+<p align="left">
+<img src="https://img.shields.io/badge/Total%20Stars-80.9k-brightgreen?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total%20Commits-20k-blue?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Total%20PRs-500-orange?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total%20Issues-100-red?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+### 🛠 Tech Stack (My Expertise)
+
+| Order | Technology | Icons |
+| :--- | :--- | :--- |
+| 1 | **C# / .NET** | <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code> |
+| 2 | **C++** | <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> |
+| 3 | **Flutter** | <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code> |
+| 4 | **JavaScript** | <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code> |
+| 5 | **HTML5** | <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code> |
+| 6 | **CSS3** | <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code> |
+
+---
+
+### 📊 Real-time Performance
 
 | My Professional Stats | Top Languages |
 | ------------- | ------------- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanhazem12789-lgtm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Full%20Stack%20Developer%20Stats" alt="Marwan's stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanhazem12789-lgtm&layout=compact&theme=radical&langs_count=6&hide=php,ruby" /> |
-
-> **Note:** Stats include private contributions and all-time commits to reflect the full scale of my work.
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanhazem12789-lgtm&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Marwan's stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanhazem12789-lgtm&layout=compact&theme=radical&langs_count=6" /> |
 
 ---
 
-### 🏆 Achievements & Interests
-* **International Competitions:** Proud participant in several global football tournaments, bringing the spirit of teamwork and discipline from the pitch to the code.
-* **Problem Solving:** Passionate about low-level programming with C++ and high-level architecture with .NET.
+### 🏆 Achievements
+* **Global Football Tournaments:** Representing with passion and discipline.
+* **Open Source Contributor:** Actively maintaining projects and collaborating on a global scale.
 
 <br />
 
