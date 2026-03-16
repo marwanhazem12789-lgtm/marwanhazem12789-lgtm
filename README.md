@@ -43,7 +43,11 @@ I'm a passionate **Full Stack & Mobile App Developer** from Egypt 🇪🇬.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanhazem12789-lgtm&layout=compact&theme=radical&langs_count=6" />
 </p>
 
+### 🏆 Achievements
+* **Global Football Tournaments:** Representing with passion and discipline.
+* **Open Source Contributor:** Actively maintaining projects and collaborating on a global scale.
 <br />
+
 
 <p align="left">
   <a href="https://github.com/marwanhazem12789-lgtm">
