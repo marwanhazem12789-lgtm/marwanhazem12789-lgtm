@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Hello+Coders!;I+am+Marwan+Hazem" alt="Typing SVG" />
+  </a>
+</p>
 
 <h1> ⚡ Marwan Hazem </h1>
 
