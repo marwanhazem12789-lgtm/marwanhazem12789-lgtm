@@ -2,23 +2,25 @@
   <img width="80%" alt="Hello, I'm Marwan!" src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Marwan!&fontSize=70" />
 </p>
 
-<br />
-
 ### 🚀 About Me
-I'm a passionate **Full Stack & Mobile App Developer** from Egypt 🇪🇬. I specialize in building high-performance applications across multiple platforms.
+I'm a passionate **Full Stack & Mobile App Developer** from Egypt 🇪🇬.
 
 - 💼 **Role:** Full Stack & Mobile App Engineer.
-- ⚽ **Football:** International competitions participant & football lover.
-- ❤️ **Interests:** High-level architecture, AI Integration, and competitive sports.
+- ⚽ **Football:** International competitions participant.
+- ❤️ **Interests:** High-level architecture and AI Integration.
 
 ---
 
-### 📈 GitHub Highlights (Impact)
-<p align="left">
-<img src="https://img.shields.io/badge/Total%20Stars-80.9k-brightgreen?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Total%20Commits-20k-blue?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/Total%20PRs-500-orange?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Total%20Issues-100-red?style=for-the-badge&logo=github" />
+### 📊 My Professional Stats
+<p align="center">
+<a href="https://github.com/marwanhazem12789-lgtm">
+  <img src="https://img.shields.io/badge/Total%20Stars%20Earned-80.9k-ff69b4?style=for-the-badge&logo=github&labelColor=2d3436" />
+  <img src="https://img.shields.io/badge/Total%20Commits-20k-33ccff?style=for-the-badge&logo=git&labelColor=2d3436" />
+  <br>
+  <img src="https://img.shields.io/badge/Total%20PRs-500-orange?style=for-the-badge&logo=github&labelColor=2d3436" />
+  <img src="https://img.shields.io/badge/Total%20Issues-100-red?style=for-the-badge&logo=github&labelColor=2d3436" />
+  <img src="https://img.shields.io/badge/Contributed%20to-1-green?style=for-the-badge&logo=github&labelColor=2d3436" />
+</a>
 </p>
 
 ---
@@ -36,17 +38,10 @@ I'm a passionate **Full Stack & Mobile App Developer** from Egypt 🇪🇬. I sp
 
 ---
 
-### 📊 Real-time Performance
-
-| My Professional Stats | Top Languages |
-| ------------- | ------------- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=marwanhazem12789-lgtm&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Marwan's stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanhazem12789-lgtm&layout=compact&theme=radical&langs_count=6" /> |
-
----
-
-### 🏆 Achievements
-* **Global Football Tournaments:** Representing with passion and discipline.
-* **Open Source Contributor:** Actively maintaining projects and collaborating on a global scale.
+### 🏆 Top Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwanhazem12789-lgtm&layout=compact&theme=radical&langs_count=6" />
+</p>
 
 <br />
 
