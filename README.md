@@ -1,8 +1,7 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Hello,%20Marwan%20Hazem!&fontSize=70&animation=fadeIn" alt="Hello, Marwan Hazem!" />
-</p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+
 
 <h1> ⚡ Marwan Hazem </h1>
 
