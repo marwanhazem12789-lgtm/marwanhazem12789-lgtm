@@ -50,9 +50,9 @@ class About : MarwanHazem {
         "ProgrammingLanguages" : { "C#", "C++", "Python", "Javascript", "Java" },
         "MobileAndWeb"         : { "Flutter", "React Native", "HTML", "CSS" },
         "Database"             : { "Firebase", "Sqlite", "PostgreSql" },
-        "Editors"              : { "Vscode", "Visual Studio", "Neovim" },
-        "Platforms"            : { "Windows", "GNU/Linux" },
-        "OtherTools"           : { "Git", "Figma", "Luvable" }
+        "Editors"              : { "Vscode", "Visual Studio"},
+        "Platforms"            : { "Windows", Linux" },
+        "OtherTools"           : { "Git", "Figma", "Lovable" }
     };
 }
 
